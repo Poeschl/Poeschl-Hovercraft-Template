@@ -1,12 +1,16 @@
 # Poeschl Hovercraft Template
 
-> This is a template repository. For use copy the whole content and remove this block comment or use the GitHub Template mechanism.
+> This is a template repository. For use copy the whole content and remove this block comment and the screenshots.
   After that it can be adjusted to your hearts content.
 
 This presentation is made with [hovercraft](https://github.com/regebro/hovercraft).
 
 And is meant to be hold on a Full HD resolution (otherwise all slides are looking kind of messed up)
 
+## Screenshots
+
+| ![Title slide](screenshots/title.png) | ![Text slide](screenshots/text.png) | ![Code slide](screenshots/code.png) |
+|---------------------------------------|-------------------------------------|-------------------------------------|
 ## Install
 
 For a easy installation use `pip`: `pip install hovercraft`
