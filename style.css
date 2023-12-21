@@ -1,7 +1,7 @@
 html, body, div, span, object, iframe {
     font-family: 'Roboto', 'Arial', sans-serif;
     color: #ffffff;
-    background-color: #222526
+    background-color: #222526;
 }
 
 tt {
@@ -104,7 +104,7 @@ li > ul {
 }
 
 .step.cover-class {
-    background-color: #891d1d;
+    background-color: #222526;
     background-size: 100% auto; 
 }
 
@@ -135,6 +135,14 @@ li > ul {
     z-index: -15;
 }
 
+.step.cover-class h1, .step.cover-class h2, .step.cover-class p {
+    max-width: 48%;
+}
+
+.step.cover-class h2 {
+    font-weight: normal;
+}
+
 .step.right-class > * {
     max-width: 41.5vw;
 }
@@ -149,4 +157,9 @@ li > ul {
     width: 100%;
     height: auto;
     max-height: 80vh;
+}
+
+
+.highlight .nt, .highlight .nl, .highlight .nf {
+    color: #c61616;
 }

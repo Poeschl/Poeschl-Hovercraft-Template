@@ -5,7 +5,7 @@
 
 This presentation is made with [hovercraft](https://github.com/regebro/hovercraft).
 
-And is meant to be hold on a Full HD resolution (otherwise all slides are looking kind of messed up)
+And is meant to be hold on a Full HD aspect ratio (otherwise all slides are looking kind of messed up)
 
 ## Screenshots
 
