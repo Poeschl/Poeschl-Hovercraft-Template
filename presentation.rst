@@ -38,6 +38,9 @@ Or on a new line
 1. And counted
 2. lists
 
+* And levels
+    * too
+
 ----
 
 Images
